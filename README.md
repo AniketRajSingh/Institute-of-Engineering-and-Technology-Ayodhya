@@ -9,4 +9,4 @@ To Join this Git contact Techno IT Club Members and give your git id so we'll ad
 
 Once Joined Name your Branch as Follows : Dev/YOUR_NAME/YOUR_ROLLNO , Example: Dev/Aniket/20207, Dev/Abhinav/20201 Etc.
 
-You can visit and see the site using link https://aniketrajsingh.github.io/ietayodhya.github.io/
+You can visit and see the site using link https://aniketrajsingh.github.io/ietayodhya/
