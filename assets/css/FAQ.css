@@ -54,17 +54,29 @@
 .bs-icon.bs-icon-circle {
   border-radius: 50%;
 }
-.question {
+.collapsible {
   background-color: #fff;
-  padding: 2%;
+  padding: 10px;
   border-radius: 10px;
   width: 100%;
   color: #6f42c1;
+  border: none;
+  text-align: start;
+  margin-left: 2%;
 }
-.answer{
-  background-color: white;
+
+.active, .collapsible:hover {
+  background-color: #6f42c1;
+  color: white;
+}
+
+.content {
+  background-color: #fff;
   border-radius: 10px;
-  color:grey;
-  text-decoration: none;
-  display: inline;
+  padding: 10px;
+  width: 100%;
+  color: #6f42c1;
+  border: none;
+  text-align: start;
+  margin: 2%;
 }
